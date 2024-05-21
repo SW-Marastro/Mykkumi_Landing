@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mykkumi_landing/static/css/main.31d6cfe0.css",
-    "main.js": "/mykkumi_landing/static/js/main.fb0710d0.js",
+    "main.js": "/mykkumi_landing/static/js/main.aa4c9020.js",
     "static/media/img_landing.png": "/mykkumi_landing/static/media/img_landing.fdb92e924497e6ac96ad.png",
     "index.html": "/mykkumi_landing/index.html",
-    "main.fb0710d0.js.map": "/mykkumi_landing/static/js/main.fb0710d0.js.map"
+    "main.aa4c9020.js.map": "/mykkumi_landing/static/js/main.aa4c9020.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.fb0710d0.js"
+    "static/js/main.aa4c9020.js"
   ]
 }
