@@ -12,7 +12,7 @@ const Home = () => {
         <Container>
           <Thumbnail
             src={thumbnail}/>
-          <Text>8월에 첫 출시 될 마이꾸미 서비스의 소식이 궁금하다면 아래에 이메일을 입력해주세요!</Text>
+          <Text>마이꾸미 서비스의 소식이 궁금하다면 아래에 이메일을 입력해주세요!</Text>
           
           <EmailContainer>
             <EmailInput
