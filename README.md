@@ -6,6 +6,10 @@
 
 🌐 https://sw-marastro.github.io/mykkumi_landing/
 
+<div align="center"> 
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSW-Marastro%2Fmykkumi_landing&count_bg=%23E267F6&title_bg=%23A238D2&icon=&icon_color=%23E7E7E7&title=%EB%A7%88%EC%9D%B4%EA%BE%B8%EB%AF%B8+%EB%9E%9C%EB%94%A9+%ED%8E%98%EC%9D%B4%EC%A7%80&edge_flat=false"/></a>
+</div>
+
 ---
 
 ### 🛠️ Tech Stack
