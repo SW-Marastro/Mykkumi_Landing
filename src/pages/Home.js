@@ -16,9 +16,11 @@ const Home = () => {
 
   // 이메일을 firebase에 저장
   const saveFirebase = async () => {
+    const today = new Date();
     try {
       await firestore.collection('user').add({
-        email: email
+        email: email,
+        date: today.toString()
       });
       setEmail('');
       alert('이메일이 전송되었습니다!');
