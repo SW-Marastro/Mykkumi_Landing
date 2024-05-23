@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/mykkumi_landing/static/css/main.31d6cfe0.css",
-    "main.js": "/mykkumi_landing/static/js/main.f99b3689.js",
-    "static/media/img_landing.png": "/mykkumi_landing/static/media/img_landing.8d66fd3ee0ff73b94961.png",
+    "main.css": "/mykkumi_landing/static/css/main.8eb6e726.css",
+    "main.js": "/mykkumi_landing/static/js/main.a66fd300.js",
+    "static/media/img_landing.png": "/mykkumi_landing/static/media/img_landing.d8ffd8dd26552c957286.png",
+    "static/media/GmarketSansBold.otf": "/mykkumi_landing/static/media/GmarketSansBold.03ceab7804dad3e86672.otf",
+    "static/media/GmarketSansMedium.otf": "/mykkumi_landing/static/media/GmarketSansMedium.3b975ddd58dcbe363ee5.otf",
+    "static/media/GmarketSansLight.otf": "/mykkumi_landing/static/media/GmarketSansLight.5d3bc33796f1cb3705f8.otf",
     "index.html": "/mykkumi_landing/index.html",
-    "main.f99b3689.js.map": "/mykkumi_landing/static/js/main.f99b3689.js.map"
+    "main.8eb6e726.css.map": "/mykkumi_landing/static/css/main.8eb6e726.css.map",
+    "main.a66fd300.js.map": "/mykkumi_landing/static/js/main.a66fd300.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.f99b3689.js"
+    "static/css/main.8eb6e726.css",
+    "static/js/main.a66fd300.js"
   ]
 }
