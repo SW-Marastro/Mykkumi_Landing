@@ -1,6 +1,14 @@
-/*
 @font-face {
-  font-family: NotoSansKR-Bold;
-  src: url("./fonts/NotoSansKR-Bold.otf");
+  font-family: GmarketSansBold;
+  src: url("../styles/fonts/GmarketSansBold.otf");
 }
-*/
+
+@font-face {
+  font-family: GmarketSansLight;
+  src: url("../styles/fonts/GmarketSansLight.otf");
+}
+
+@font-face {
+  font-family: GmarketSansMedium;
+  src: url("../styles/fonts/GmarketSansMedium.otf");
+}

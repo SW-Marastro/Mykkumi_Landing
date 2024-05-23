@@ -34,19 +34,21 @@ const Home = () => {
     <Container>
       <Thumbnail
         src={thumbnail}/>
+      {/*}
       <Text>다꾸템을 어디서 샀는지 궁금하신가요?</Text>
       <Text>위 사진처럼 다꾸 사진에 제품이 태그되어 있는 서비스 '마이꾸미'가 8월에 출시될 예정입니다 💜</Text>
       <Text>마이꾸미 서비스의 소식이 궁금하다면 아래에 이메일을 입력해주세요!</Text>
+      */}
       
       <EmailContainer>
         <EmailInput
           type="text"
           value={email}
           onChange={handleInputChange}
-          placeholder="이메일을 입력하세요"/>
+          placeholder="이메일을 입력해주세요!"/>
         <EmailSubmit
           onClick={saveFirebase}>
-          전송
+          전송 💜
         </EmailSubmit>
       </EmailContainer>
     </Container>
@@ -73,20 +75,28 @@ const Text = styled.div`
 
 const EmailContainer = styled.div`
   display: flex;
+  margin: 5px auto 10px auto;
+  justify-content: center;
+  align-items: center;
 `;
 
 const EmailInput = styled.input`
   width: 60vw;
-  margin: 0px 10px 10px 20px;
+  margin-right: 5px;
+  font-family: 'GmarketSansMedium';
+  font-size: 12px;
+  padding: 2px;
 `;
 
 const EmailSubmit = styled.div`
-  font-size: 14px;
-  height: 20px;
-  padding: 0px 5px;
+  font-size: 12px;
+  height: fit-content;
+  padding: 4px 8px;
+  border-radius: 4px;
   color: ${palette.white};
   background: ${palette.black};
   cursor: pointer;
+  font-family: 'GmarketSansMedium';
 `;
 
 export default Home;
