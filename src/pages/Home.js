@@ -75,7 +75,7 @@ const Text = styled.div`
 
 const EmailContainer = styled.div`
   display: flex;
-  margin: 5px auto 10px auto;
+  margin: 8px auto 15px auto;
   justify-content: center;
   align-items: center;
 `;
@@ -85,7 +85,7 @@ const EmailInput = styled.input`
   margin-right: 5px;
   font-family: 'GmarketSansMedium';
   font-size: 12px;
-  padding: 2px;
+  padding: 4px 2px;
 `;
 
 const EmailSubmit = styled.div`
